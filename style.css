@@ -5,10 +5,6 @@
     justify-content: center;
     align-items: center;
 }
-.block-time {
-   
-    
-}
 
 .timer {
     margin-top: 150px;
@@ -31,13 +27,3 @@
     font-size: 90px;
     color: #c73030;
 }
-
-/* .timer-numbers:after {
-    content: '';
-    display: block;
-    width: 20%;
-    height: 1px;
-    background-color: #c78030;
-    margin: 0 auto;
-    margin-top: 4px;
-} */
